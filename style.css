@@ -132,7 +132,12 @@ body{
     }
 
     #menu{
-        padding-bottom: 25vh;
+        margin-bottom: 25vh;
+    }
+
+    #menu img{
+        height: 22px;
+        width: auto;
     }
 
     .content{
