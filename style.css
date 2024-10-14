@@ -132,11 +132,12 @@ body{
     }
 
     #menu{
-        margin-bottom: 25vh;
+        margin-bottom: 20vh;
+        padding-top: 5px;
     }
 
     #menu img{
-        height: 22px;
+        height: 34px;
         width: auto;
     }
 
