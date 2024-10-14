@@ -133,9 +133,14 @@ body{
 
     #menu{
         margin-bottom: 20vh;
-        padding-top: 5px;
+        padding-top: 1px;
     }
 
+    .leftmenu{
+        padding-top: 7px;
+        margin-top: 15px;
+    }
+    
     #menu img{
         height: 34px;
         width: auto;
