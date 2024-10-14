@@ -50,7 +50,7 @@ body{
 }
 .rightmenu ul a{
     text-decoration: none;
-    color: cyan);
+    color: #00FFFF;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -88,7 +88,7 @@ body{
 .riddlesmain{
     width: 80%;
     height: 360px;
-    background: linear-gradient(to left, cyan, #ba03da);
+    background: linear-gradient(to left, #00FFFF, #ba03da);
     justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;
