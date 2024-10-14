@@ -155,7 +155,11 @@ body{
 
 @media (max-width: 1499px){
 
-    .content{
+    .section {
+        width: 100%
+    }
+        
+        .content{
         margin-top: 17vh;
         color: #fff;
         padding: 30px;
